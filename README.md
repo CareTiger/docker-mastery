@@ -1,13 +1,6 @@
-# Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
+# Udemy Course Docker Mastery: with Kubernetes+Swarm
 
-
-> Build, test, and deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using a cloud native DevOps mindset
-
-This repository is for use in my Udemy Courses "[Docker Mastery](https://www.udemy.com/course/docker-mastery/?referralCode=1410924A733D33635CCB
-)" and "[Swarm Mastery](https://www.udemy.com/course/docker-swarm-mastery/?referralCode=4927D9CB156D4AE0228C)"
-
-- Get these courses with my "cheapest on the internet" coupon links: [bretfisher.com/courses](https://www.bretfisher.com/courses)
-- Get the [weekly newsletter](https://www.bretfisher.com/newsletter) on all the cloud native DevOps content I'm creating.
+My docker notes and files from the Docker mastery course on Udemy.
 
 ## Course Sections
 
@@ -21,7 +14,7 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 6. Container Lifetime & Persistent Data: Volumes, Volumes, Volumes
 7. Making It Easier with Docker Compose: The Multi-Container Tool
 8. Swarm Intro and Creating a 3-Node Swarm Cluster
-9.  Swarm Basic Features and How to Use Them In Your Workflow
+9. Swarm Basic Features and How to Use Them In Your Workflow
 10. Swarm App Lifecycle
 11. Container Registries: Image Storage and Distribution
 12. Docker in Production
